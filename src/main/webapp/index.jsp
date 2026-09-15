@@ -1136,18 +1136,18 @@
 
             <nav class="main-nav" id="mainNav" aria-label="Main navigation">
                 <ul>
-                    <li><a href="#" class="active"><i class="fas fa-home"></i> Home</a></li>
-                    <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
-                    <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
+                    <li><a href="#" class="active"><em class="fas fa-home"></i> Home</a></li>
+                    <li><a href="#categories"><em class="fas fa-th-large"></i> Categories</a></li>
+                    <li><a href="#products"><em class="fas fa-fire"></i> Trending</a></li>
+                    <li><a href="#deals"><em class="fas fa-tag"></i> Deals</a></li>
+                    <li><a href="#testimonials"><em class="fas fa-star"></i> Reviews</a></li>
                 </ul>
             </nav>
 
             <div style="display:flex;align-items:center;gap:10px;">
                 <div class="search-wrap" role="search">
                     <input type="search" id="searchInput" placeholder="Search products..." aria-label="Search" />
-                    <button id="searchBtn" aria-label="Submit search"><i class="fas fa-search"></i></button>
+                    <button id="searchBtn" aria-label="Submit search"><em class="fas fa-search"></i></button>
                 </div>
 
                 <div class="header-actions">
